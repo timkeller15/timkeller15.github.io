@@ -178,8 +178,9 @@ li {
 }
 
   .section-2 img{
-    max-width: 80%;
+    max-width: 90%;
     height: auto;
+    max-height: 200px;
 }
 
 }
